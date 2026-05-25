@@ -1,0 +1,13 @@
+EasyFranka
+
+This project is modified from code originally copyrighted by:
+
+Copyright 2024 Jianlan Luo, Zheyuan Hu, Charles Xu, You-Liang Tan
+
+Modifications were made by:
+
+Copyright 2026 Yunyang Mo
+
+The original code is licensed under the Apache License, Version 2.0.
+This repository contains modifications and adaptations for Franka robotic
+manipulation and reinforcement learning experiments.
